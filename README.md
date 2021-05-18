@@ -1,4 +1,4 @@
-# junit5-extension-examples
+# JUnit 5 Extension Example(s)
 
 Very basic examples about JUnit 5 extensions
 
